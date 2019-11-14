@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada77f44-3c9a-43df-84be-406a5cc4cb81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/src/Convert_Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Json_Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Message_Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Xml_Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/Barcelona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/GenericsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/Hockey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/NHL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/RealMadrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/generics/Sports.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/src/MessageProcessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/src/bla.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +28,15 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="OOP" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TCKujR0JJ3QK5K6iTJSFGJaaO8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
@@ -50,10 +52,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.GenericsMain">
     <configuration name="CharList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharList" />
       <module name="DataCollections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.intership.task.generics.GenericsMain" />
+      <module name="DataCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.intership.task.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CharList" />
       </list>
