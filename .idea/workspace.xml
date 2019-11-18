@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ada77f44-3c9a-43df-84be-406a5cc4cb81" name="Default Changelist" comment="Created Date task">
-      <change afterPath="$PROJECT_DIR$/src/com/intership/task/input_output/MainIO.java" afterDir="false" />
+    <list default="true" id="ada77f44-3c9a-43df-84be-406a5cc4cb81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intership/task/date/DateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/intership/task/date/DateMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainIO">
+  <component name="RunManager" selected="Application.DateMain">
     <configuration name="CharList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharList" />
       <module name="DataCollections" />
@@ -108,10 +108,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateMain" />
         <item itemvalue="Application.MainIO" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GenericsMain" />
-        <item itemvalue="Application.DateMain" />
         <item itemvalue="Application.CharList" />
       </list>
     </recent_temporary>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573721109971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created Date task">
+      <created>1574064587153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574064587153</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,8 +199,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Created Date task" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="253" height="528" key="Git.Branch.Popup" />
-    <state width="253" height="528" key="Git.Branch.Popup/1920.1080" />
-    <state width="253" height="528" key="Git.Branch.Popup@1920.1080@120dpi" />
+    <state width="257" height="532" key="Git.Branch.Popup" />
+    <state width="257" height="532" key="Git.Branch.Popup/1920.1080" />
+    <state width="257" height="532" key="Git.Branch.Popup@1920.1080@120dpi" />
   </component>
 </project>
