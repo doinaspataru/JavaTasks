@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ada77f44-3c9a-43df-84be-406a5cc4cb81" name="Default Changelist" comment="Created DateMain class">
+    <list default="true" id="ada77f44-3c9a-43df-84be-406a5cc4cb81" name="Default Changelist" comment="Created Date task">
+      <change afterPath="$PROJECT_DIR$/src/com/intership/task/input_output/MainIO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataCollections/META-INF/DataCollections.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intership/task/date/DateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/intership/task/date/DateMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="date" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -51,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateMain">
+  <component name="RunManager" selected="Application.MainIO">
     <configuration name="CharList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharList" />
       <module name="DataCollections" />
@@ -92,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.intership.task.input_output.MainIO" />
+      <module name="DataCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.intership.task.input_output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateMain" />
+        <item itemvalue="Application.MainIO" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GenericsMain" />
+        <item itemvalue="Application.DateMain" />
         <item itemvalue="Application.CharList" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,11 +188,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created DateMain class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created DateMain class" />
+    <MESSAGE value="Created Date task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Date task" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="240" height="515" key="Git.Branch.Popup" />
-    <state width="240" height="515" key="Git.Branch.Popup/1920.1080" />
-    <state width="240" height="515" key="Git.Branch.Popup@1920.1080@120dpi" />
+    <state width="253" height="528" key="Git.Branch.Popup" />
+    <state width="253" height="528" key="Git.Branch.Popup/1920.1080" />
+    <state width="253" height="528" key="Git.Branch.Popup@1920.1080@120dpi" />
   </component>
 </project>
